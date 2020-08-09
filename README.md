@@ -15,7 +15,7 @@ District Sumary without 9<sup>th</sup> graders | ![](Resources/District_Summary_
 *Thomas High School* 9<sup>th</sup> graders    | ![](Resources/District_Summary_ths.png) 
 
 ### School Summary
-
+ 
 School Summary Complete                        | School Sumary without 9<sup>th</sup> graders
 :---------------------------------------------:|:-------------------------------------:
 ![](Resources/School_Summary_Complete.png)     | ![](Resources/School_Summary_NaN.png)
