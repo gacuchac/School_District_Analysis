@@ -55,3 +55,8 @@ Scores by Size Complete                 | Scores by Size without 9<sup>th</sup> 
 ![](Resources/School_Size_Complete.png) | ![](Resources/School_Size_NaN.png)
 
  - Scores by school type
+  When comparing the *Charter* type of school, corresponding to *Thomas High School*, we can see the drop in the *% Passing* columns. This is consistent with what was observed in previous analysis.
+
+Scores by Type Complete                 | Scores by Type without 9<sup>th</sup> graders
+:--------------------------------------:|:-------------------------------------:
+![](Resources/School_Type_Complete.png) | ![](Resources/School_Type_NaN.png)
