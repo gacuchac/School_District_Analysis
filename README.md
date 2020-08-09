@@ -27,3 +27,16 @@ As seen in the following image, when ranking by *% Overall Passing*, *Thomas Hig
 School Summary Complete                        | School Sumary without 9<sup>th</sup> graders
 :---------------------------------------------:|:-------------------------------------:
 ![](Resources/School_Summary_Complete_Sorted.png)     | ![](Resources/School_Summary_NaN_Sorted.png)
+
+- Replacement of 9<sup>th</sup> graders scores
+ - Math and reading scores by grade
+ Math Scores by Grade Complete                        | Math Scores by Grade without 9<sup>th</sup> graders
+:---------------------------------------------:|:-------------------------------------:
+![](Resources/Math_Scores_Grades_Complete.png)     | ![](Resources/Math_Scores_Grades_Complete.png)
+
+ Reading Scores by Grade Complete                        | Reading Scores by Grade without 9<sup>th</sup> graders
+:---------------------------------------------:|:-------------------------------------:
+![](Resources/Reading_Scores_Grades_Complete.png)     | ![](Resources/Reading_Scores_Grades_Complete.png)
+ - Scores by school spending
+ - Scores by school size
+ - Scores by school type
