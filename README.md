@@ -30,14 +30,14 @@ School Summary Complete                        | School Sumary without 9<sup>th<
 
 - Replacement of 9<sup>th</sup> graders scores
  - Math and reading scores by grade
- 
+
  Math Scores by Grade Complete                        | Math Scores by Grade without 9<sup>th</sup> graders
 :---------------------------------------------:|:-------------------------------------:
-![](Resources/Math_Scores_Grades_Complete.png)     | ![](Resources/Math_Scores_Grades_Complete.png)
+![](Resources/Math_Scores_Grades_Complete.png)     | ![](Resources/Math_Scores_Grades_Nan.png)
 
  Reading Scores by Grade Complete                        | Reading Scores by Grade without 9<sup>th</sup> graders
 :---------------------------------------------:|:-------------------------------------:
-![](Resources/Reading_Scores_Grades_Complete.png)     | ![](Resources/Reading_Scores_Grades_Complete.png)
+![](Resources/Reading_Scores_Grades_Complete.png)     | ![](Resources/Reading_Scores_NaN.png)
  - Scores by school spending
  - Scores by school size
  - Scores by school type
