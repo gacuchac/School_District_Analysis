@@ -24,20 +24,27 @@ School Summary Complete                        | School Sumary without 9<sup>th<
 - *Thomas High School* in relation to other schools
 As seen in the following image, when ranking by *% Overall Passing*, *Thomas High School* drops from 2<sup>nd</sup> to 8<sup>th</sup> place. This is consistent with the previous analysis, where the important drop was in the *% Passing* columns due to the failing grades of the 9<sup>th</sup> graders.
 
-School Summary Complete                        | School Sumary without 9<sup>th</sup> graders
-:---------------------------------------------:|:-------------------------------------:
-![](Resources/School_Summary_Complete_Sorted.png)     | ![](Resources/School_Summary_NaN_Sorted.png)
+School Summary Complete                           | School Sumary without 9<sup>th</sup> graders
+:------------------------------------------------:|:-------------------------------------:
+![](Resources/School_Summary_Complete_Sorted.png) | ![](Resources/School_Summary_NaN_Sorted.png)
 
 - Replacement of 9<sup>th</sup> graders scores
  - Math and reading scores by grade
+ We can see that for *Thomas High School*, the 9<sup>th</sup> graders' math and reading scores were not very different than the rest of the grades and should we have kept them, the averages woulnot have change much, as seen previously in the *School Summary* analysis.
 
- Math Scores by Grade Complete                        | Math Scores by Grade without 9<sup>th</sup> graders
-:---------------------------------------------:|:-------------------------------------:
-![](Resources/Math_Scores_Grades_Complete.png)     | ![](Resources/Math_Scores_Grades_Nan.png)
+ Math Scores by Grade Complete                   | Math Scores by Grade without 9<sup>th</sup> graders
+:-----------------------------------------------:|:-------------------------------------:
+![](Resources/Math_Scores_Grades_Complete.png)   | ![](Resources/Math_Scores_Grades_Nan.png)
 
- Reading Scores by Grade Complete                        | Reading Scores by Grade without 9<sup>th</sup> graders
-:---------------------------------------------:|:-------------------------------------:
-![](Resources/Reading_Scores_Grades_Complete.png)     | ![](Resources/Reading_Scores_NaN.png)
+ Reading Scores by Grade Complete                 | Reading Scores by Grade without 9<sup>th</sup> graders
+:------------------------------------------------:|:-------------------------------------:
+![](Resources/Reading_Scores_Grades_Complete.png) | ![](Resources/Reading_Scores_Grades_NaN.png)
+
  - Scores by school spending
+
+  Scores by Spending Complete        | Scores by Spending without 9<sup>th</sup> graders
+:-----------------------------------:|:-------------------------------------:
+![](Resources/Spending_Complete.png) | ![](Resources/Spending_NaN.png)
+
  - Scores by school size
  - Scores by school type
