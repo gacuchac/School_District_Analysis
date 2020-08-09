@@ -41,11 +41,17 @@ School Summary Complete                           | School Sumary without 9<sup>
 ![](Resources/Reading_Scores_Grades_Complete.png) | ![](Resources/Reading_Scores_Grades_NaN.png)
 
  - Scores by school spending
- When comparing the $630-$644 spending range we can see the drop in the *% Passing* columns. This is consistent with what was observed in previous analysis.
+ When comparing the $630-$644 spending range, corresponding to *Thomas High School*, we can see the drop in the *% Passing* columns. This is consistent with what was observed in previous analysis.
 
   Scores by Spending Complete        | Scores by Spending without 9<sup>th</sup> graders
 :-----------------------------------:|:-------------------------------------:
 ![](Resources/Spending_Complete.png) | ![](Resources/Spending_NaN.png)
 
  - Scores by school size
+When comparing the *Medium* size schools, corresponding to *Thomas High School*, we can see the drop in the *% Passing* columns. This is consistent with what was observed in previous analysis.
+
+   Scores by Size Complete        | Scores by Size without 9<sup>th</sup> graders
+:-----------------------------------:|:-------------------------------------:
+![](Resources/School_Size_Complete.png) | ![](Resources/School_Size_NaN.png)
+
  - Scores by school type
