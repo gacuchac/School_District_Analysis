@@ -4,6 +4,10 @@ Based on standarized math and reading tests results, we analyse the overall dist
 
 ## Results
 When comparing the dataset with and without the *Thomas High School* ninth graders scores we get the following results:
-District Summary                | District Sumary without *Thomas High School* 9<sup>th</sup> graders
+
+### District Summary
+We can see that 
+District Summary
 :-------------------------------:|:-------------------------------------:
-![](Resources/District_Summary_Complete.png) | ![](Resources/District_Summary_NaN.png) 
+District Summary Complete  | ![](Resources/District_Summary_Complete.png)
+District Sumary without 9<sup>th</sup> graders |  ![](Resources/District_Summary_NaN.png) 
