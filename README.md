@@ -34,7 +34,7 @@ School Summary Complete                           | School Sumary without 9<sup>
 
  Math Scores by Grade Complete                   | Math Scores by Grade without 9<sup>th</sup> graders
 :-----------------------------------------------:|:-------------------------------------:
-![](Resources/Math_Scores_Grades_Complete.png)   | ![](Math_Scores_Grades_Nan.png)
+![](Resources/Math_Scores_Grades_Complete.png)   | ![](Resources/Math_Scores_Grades_NaN.png)
 
  Reading Scores by Grade Complete                 | Reading Scores by Grade without 9<sup>th</sup> graders
 :------------------------------------------------:|:-------------------------------------:
