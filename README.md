@@ -7,7 +7,7 @@ When comparing the dataset with and without the *Thomas High School* ninth grade
 
 ### District Summary
 We can see that 
-District Summary
+District Summary |
 :-------------------------------:|:-------------------------------------:
 District Summary Complete  | ![](Resources/District_Summary_Complete.png)
 District Sumary without 9<sup>th</sup> graders |  ![](Resources/District_Summary_NaN.png) 
