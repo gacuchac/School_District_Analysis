@@ -5,11 +5,17 @@ Based on standarized math and reading tests results, we analyse the overall dist
 ## Results
 When comparing the dataset with and without the *Thomas High School* ninth graders scores we get the following results:
 
-### District Summary Results
-We can see a small decrease of about a 1% in all scores. This makes sense since it means that when we are no longer considering the altered scores, it goes down on the same amount. Another way of saying it, the fraudulent scores are above the average,so when we don
+### District Summary
+We can see a small decrease of about a 1% in all scores when not considering *Thomas High School* 9<sup>th</sup> graders scores. This makes sense since it means that when we are no longer considering the altered scores, it goes down on the same amount, meaning that they are all above the mean as we can see in the table.
 
 District Summary                               | Image
 :---------------------------------------------:|:-------------------------------------:
 District Summary Complete                      | ![](Resources/District_Summary_Complete.png)
 District Sumary without 9<sup>th</sup> graders | ![](Resources/District_Summary_NaN.png) 
 *Thomas High School* 9<sup>th</sup> graders    | ![](Resources/District_Summary_ths.png) 
+
+### School Summary
+
+School Summary Complete                        | School Sumary without 9<sup>th</sup> graders
+:---------------------------------------------:|:-------------------------------------:
+![](Resources/School_Summary_Complete.png)     | ![](Resources/School_Summary_NaN.png)
